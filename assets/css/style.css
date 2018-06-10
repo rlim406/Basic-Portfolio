@@ -7,7 +7,7 @@ body{
     font-size:35px;
     color: white;
     padding: 12px;
-    width: 250px;
+    width: 200px;
     background-color: #53d2d6;
     float:left;
     margin-left:175px;
@@ -134,23 +134,23 @@ form {
 }
 
 #message {
-    width: 275px;
+    width: 225px;
     text-align:left; 
     font-family: 'Work Sans', sans-serif;
     font-size: 18px;
-    background-color: #aed4d5;
+    background-color: #f4f5f7de;
     padding-left:0;
-    padding-bottom:150px;
+    padding-bottom:100px;
 }
 
 #firstname, #email {
     font-family: 'Work Sans', sans-serif;
     font-size: 18px;
-    background-color: #aed4d5;
+    background-color: #f4f5f7de;
 }
 
 #submit {
-    background-color: #7fb2f0;
+    background-color: #5bc7ca;
     padding:5px;
 }
 
